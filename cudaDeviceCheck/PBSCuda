@@ -1,0 +1,10 @@
+#!/bin/sh
+#PBS -N gpujob
+#PBS -q gpu
+#PBS -l select=6:ncpus=1:ngpus=2,walltime=12:00:00
+
+### Change to the relevant directory
+cat $PBS_NODEFILE
+cd /home/sundaresang/cuda_ass2
+echo $(pwd)
+mpiexec --nooversubscribe --hostfile $PBS_NODEFILE --map-by ppr:1:node:pe=1 ./main

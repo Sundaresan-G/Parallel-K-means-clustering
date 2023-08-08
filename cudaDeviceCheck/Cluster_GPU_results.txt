@@ -1,0 +1,156 @@
+node4
+node5
+node6
+node7
+node9
+node9
+/home/sundaresang/cuda_ass2
+Number of devices: 2 in host: node6
+Device Number: 0
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 1
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Number of devices: 2 in host: node4
+Device Number: 0
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 1
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Number of devices: 2 in host: node7
+Device Number: 0
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 1
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Number of devices: 2 in host: node5
+Device Number: 0
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 1
+  Device name: TITAN RTX
+  Memory Clock Rate (MHz): 6836
+  Memory Bus Width (bits): 384
+  Peak Memory Bandwidth (GB/s): 672.1
+  Total global memory (Gbytes) 23.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 5-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Number of devices: 4 in host: node9
+Device Number: 0
+  Device name: Tesla V100-SXM2-32GB
+  Memory Clock Rate (MHz): 856
+  Memory Bus Width (bits): 4096
+  Peak Memory Bandwidth (GB/s): 898.0
+  Total global memory (Gbytes) 31.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 0-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 1
+  Device name: Tesla V100-SXM2-32GB
+  Memory Clock Rate (MHz): 856
+  Memory Bus Width (bits): 4096
+  Peak Memory Bandwidth (GB/s): 898.0
+  Total global memory (Gbytes) 31.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 0-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 2
+  Device name: Tesla V100-SXM2-32GB
+  Memory Clock Rate (MHz): 856
+  Memory Bus Width (bits): 4096
+  Peak Memory Bandwidth (GB/s): 898.0
+  Total global memory (Gbytes) 31.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 0-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
+Device Number: 3
+  Device name: Tesla V100-SXM2-32GB
+  Memory Clock Rate (MHz): 856
+  Memory Bus Width (bits): 4096
+  Peak Memory Bandwidth (GB/s): 898.0
+  Total global memory (Gbytes) 31.7
+  Shared memory per block (Kbytes) 48.0
+  minor-major: 0-7
+  Warp-size: 32
+  Concurrent kernels: yes
+  Concurrent computation/communication: yes
+
